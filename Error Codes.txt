@@ -1,0 +1,26 @@
+Error: Expected <div id="first">
+        <div>
+            <p>Star Wars</p>
+        </div>
+        <div>
+            <p>The Matrix</p>
+        </div>
+        <div>
+            <p>Back To The Future</p>
+        </div>
+    </div> to have CSS {"display":"flex","justify-content":"space-around"} 
+ but found {"display":"block"}
+    at https://replbox.repl.it/public/replbox_web_project.f603d4841f57826ec917.bundle.js:670:61262
+    at t (https://replbox.repl.it/public/replbox_web_project.f603d4841f57826ec917.bundle.js:670:61302)
+    at e.L [as expectationResultFactory] (https://replbox.repl.it/public/replbox_web_project.f603d4841f57826ec917.bundle.js:670:45155)
+    at e.addExpectationResult (https://replbox.repl.it/public/replbox_web_project.f603d4841f57826ec917.bundle.js:670:40607)
+    at t.r [as addExpectationResult] (https://replbox.repl.it/public/replbox_web_project.f603d4841f57826ec917.bundle.js:670:44324)
+    at t.toHaveCss (https://replbox.repl.it/public/replbox_web_project.f603d4841f57826ec917.bundle.js:670:60629)
+    at eval (eval at <anonymous> (https://replbox.repl.it/public/replbox_web_project.f603d4841f57826ec917.bundle.js:314:7150), <anonymous>:16:22)
+    at https://replbox.repl.it/public/replbox_web_project.f603d4841f57826ec917.bundle.js:670:84066
+    at n.run (https://replbox.repl.it/public/replbox_web_project.f603d4841f57826ec917.bundle.js:670:84290)
+    at n.execute (https://replbox.repl.it/public/replbox_web_project.f603d4841f57826ec917.bundle.js:670:83061)
+    at e.D [as queueRunnerFactory] (https://replbox.repl.it/public/replbox_web_project.f603d4841f57826ec917.bundle.js:670:45730)
+    at e.execute (https://replbox.repl.it/public/replbox_web_project.f603d4841f57826ec917.bundle.js:670:41349)
+    at e.fn (https://replbox.repl.it/public/replbox_web_project.f603d4841f57826ec917.bundle.js:670:94177)
+    at 
